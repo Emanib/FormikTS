@@ -1,0 +1,139 @@
+/* .App {
+  padding: 12px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.date_work_experinece {
+  margin: 0 10px;
+  width: 40%;
+  padding: 5px;
+}
+
+.select_work_experinece {
+  margin: 15px;
+}
+.App-link {
+  color: #61dafb;
+}
+.work_experience {
+  margin: 30px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin: 5px;
+}
+
+.btn_submit {
+  background-color: rgb(48, 209, 214);
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 6px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.btn_save {
+	background: none;
+	outline: inherit;
+	border: none;
+  color: orange;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+.input {
+  padding: 12px 20px;
+  margin: 8px 13px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 96%;
+}
+
+.checkbox {
+  margin: 2px;
+  font-size: 12px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+.date {
+  padding: 12px 20px;
+  margin: 8px 13px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+.list_Date{
+  margin: 8px 13px;
+  display: inline-block;
+}
+.div_date{
+  display: flex;
+  /* flex-direction: row;
+  align-items: center; */
+  /* justify-content: center;
+} */
+/* .list_item {
+  font-size: 12px;
+  background: rgb(251, 228, 228);
+  border-radius: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 20px;
+  justify-content: space-between;
+} */
+/* .list {
+  margin-bottom: 10px;
+  padding: 10px 0px;
+
+} */
+/* .edit_item {
+  background-color: rgb(48, 209, 214);
+  border: none;
+  color: white;
+  padding: 6px 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 3px;
+  margin: 20px;
+  cursor: pointer;
+} */
+
+/* .delete_item {
+  cursor: pointer;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 3px;
+  margin: 5px;
+}
+.list_date{
+  margin: 20px;
+}  */
